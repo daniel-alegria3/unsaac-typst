@@ -1,4 +1,4 @@
-#import "@preview/complete-unsaac:0.2.2": corolario, definicion, teorema
+#import "@preview/complete-unsaac:0.2.3": corolario, definicion, teorema
 
 = Marco teórico conceptual
 

@@ -1,4 +1,4 @@
-#import "@preview/complete-unsaac:0.2.2": definicion
+#import "@preview/complete-unsaac:0.2.3": definicion
 
 = Hipótesis y variables
 

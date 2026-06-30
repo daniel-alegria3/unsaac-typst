@@ -1,8 +1,8 @@
-#import "@preview/complete-unsaac:0.2.2": (
+#import "@preview/complete-unsaac:0.2.3": (
   doc-tesis, sty-tesis-anexos, sty-tesis-base, sty-tesis-post, sty-tesis-pre,
 )
 
-#import "contenido/metadata.typ": ep, facu, titulo, titulo-prof
+#import "contenido/metadata.typ": ep, facu, titulo, titulo-prof, titulo-prof-lbl
 
 #show: doc-tesis.with(
   titulo: titulo,
@@ -16,6 +16,7 @@
   facultad: facu,
   escuela: ep,
   titulo-academico: titulo-prof,
+  // titulo-academico-label: [Para optar al Grado Académico de],
   // duplex: true,
   // binding-margin: 2%,
 )

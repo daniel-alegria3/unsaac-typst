@@ -1,4 +1,4 @@
-#import "@preview/complete-unsaac:0.2.2": actividades-tabla, doc-practica-plan-actividades
+#import "@preview/complete-unsaac:0.2.3": actividades-tabla, doc-practica-plan-actividades
 
 #import "actividades/mes01.typ": acts01
 #import "actividades/mes02.typ": acts02
