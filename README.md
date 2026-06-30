@@ -19,7 +19,7 @@ tambien se provee funciones auxiliares simples:
 - `fecha-str`: Obtener una cuerda formateada en español
 - `definicion`, `teorema`, `corolario`: Custom `figures` para mostrar eso mismo
 
-## Tesis / Plan de tesis
+## Tesis / Plan de tesis / Trabajo de Investigación
 
 Basada en la
 [plantilla de overleaf](https://www.overleaf.com/latex/templates/plantilla-tesis-unsaac/psghqhfpnhpm).
@@ -35,8 +35,9 @@ Basada en la
     "Nombre Completo Autor 1",
     "Nombre Completo Autor 2",
   ),
-  titulo-documento: [PLAN DE TESIS],
-  titulo-academico: [Ingeniero Informático y de Sistemas],
+  // titulo-documento: upper[Trabajo de investigación],
+  // titulo-academico-label: [Para optar al Grado Académico de],
+  // titulo-academico: [Bachiller en Ingeniería],
   // facultad: [Ingeniería Eléctrica, Electrónica, Informática y Mecánica],
   // escuela: [Ingeniería Informática y de Sistemas],
   // duplex: true,       // activa márgenes para impresión doble cara

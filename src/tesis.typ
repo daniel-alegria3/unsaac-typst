@@ -9,6 +9,7 @@
   autores: (),
   titulo-documento: [TESIS],
   /// school specific
+  titulo-academico-label: [Para optar al título profesional de],
   titulo-academico: [Ingeniero Informático y de Sistemas],
   facultad: [Ingeniería Eléctrica, Electrónica, Informática y Mecánica],
   escuela: [Ingeniería Informática y de Sistemas],
@@ -221,7 +222,7 @@
           row-gutter: 1.2em,
           align: left,
           [
-            Para optar al título profesional de: \
+            #titulo-academico-label: \
             #h(1em) #smallcaps(titulo-academico) \
           ],
           [
