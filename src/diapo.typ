@@ -1,4 +1,4 @@
-#import "@preview/touying:0.7.3": *
+#import "@preview/touying:0.7.4": *
 #import "./utils/fecha.typ": fecha_str
 
 /// TODO: dont just use metropolis
